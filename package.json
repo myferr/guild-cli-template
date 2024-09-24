@@ -1,0 +1,15 @@
+{
+  "name": "my-touchguild-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "guildedapi-types.ts": "^0.3.64",
+    "touchguild": "^1.4.1",
+    "tslib": "^2.7.0",
+    "undici": "^6.19.8",
+    "ws": "^8.18.0",
+    "chalk": "4.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
